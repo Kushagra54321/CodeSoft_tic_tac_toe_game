@@ -33,7 +33,7 @@ Play against an **unbeatable AI** (powered by Minimax algorithm) or challenge yo
 
 ![Screenshot 1](screenshots/player-win.png)
 ![Screenshot 2](screenshots/ai-win.png)
-![Screenshot 3](screenshots/dark-mode.png)
+![Screenshot 3](screenshots/dark-light-mode.png)
 
 ---
 
