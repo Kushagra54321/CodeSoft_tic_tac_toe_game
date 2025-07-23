@@ -27,6 +27,10 @@ Play against an **unbeatable AI** (powered by Minimax algorithm) or challenge yo
 
 ---
 
+## Web app
+   [App]  https://tic-tac-toe-yo86.onrender.com
+
+---
 ## 📸 Screenshots
 
 > (Add your screenshots in the `screenshots/` folder and update these paths.)
