@@ -36,12 +36,14 @@ Play against an **unbeatable AI** (powered by Minimax algorithm) or challenge yo
 ![Screenshot 3](screenshots/dark-light-mode.png)
 
 ---
+## 📫 Let's Connect:
+[LinkedIn] www.linkedin.com/in/kushagra-singh-b86695297 | [GitHub] https://github.com/Kushagra54321
 
 ## 🚀 Getting Started (Local Development)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/kushagra54321/tic-tac-toe-ai-web.git
+git clone https://github.com/kushagra54321/CodeSoft_tic_tac_toe_game.git
 
 2. Install dependencies
 Make sure Python 3.8+ is installed.
